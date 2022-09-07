@@ -1,0 +1,15 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+  }
+  .container {
+   
+  
+    background-color: rgb(8, 66, 88);
+    border: 6px solid black;
+ }
+ h1{
+  color: rgb(255, 0, 128);
+  
+ }
